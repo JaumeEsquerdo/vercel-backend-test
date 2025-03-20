@@ -21,7 +21,7 @@
         },
         {
             "source": "/web",
-            "destination": "/public/index.hmtl"
+            "destination": "/public/index.html"
         },
         {
             "source": "/(.*)",
